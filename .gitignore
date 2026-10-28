@@ -1,0 +1,10 @@
+# secretos: contiene GEMINI_API_KEY
+config.env
+
+# entornos de Python
+.venv/
+env/
+__pycache__/
+
+dataset/
+.DS_Store
